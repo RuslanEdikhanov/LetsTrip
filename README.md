@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-  <img width="100%" src="https://github.com/kamirus7/LetsTrip/blob/master/banner.png">
+  <img width="100%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/banner.png">
 	<br>
 </h1>
 

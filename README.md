@@ -61,7 +61,7 @@
 
 
 ## Team
-<div style="text-align: center;"><b>Mikhail Hudokormov. CEO&nbsp;</b></div>
+<div style="text-align: center;"><b>Mikhail Khudokormov. CEO&nbsp;</b></div>
 <div>In the IT industry since 2010. Became interested in blockchain technology in 2016. Let&rsquo;s Trip project author.&nbsp;</div>
 <div>&nbsp;</div>
 <div style="text-align: center;"><b>Ruslan Edikhanov. COO&nbsp;</b></div>

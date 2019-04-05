@@ -55,6 +55,14 @@ Name: Vitaliy Nozdrachev
 Role: WWW
 
 ## Developer
+
+<h1 align="left">
+  <img width="20%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/PhotoTeam/Evgenу_Shaltinskiy.jpg">
+</h1>
+Name: Evgenу Shaltinskiy
+Role: DEV
+
+## Developer
 <h1 align="left">
   <img width="20%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/PhotoTeam/Taras_Moskaluc.jpg">
 </h1>

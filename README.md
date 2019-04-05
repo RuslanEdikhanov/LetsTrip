@@ -88,6 +88,9 @@
 <div style="text-align: center;"><b>Vitaliy Nozdrachev. WWW&nbsp;</b></div>
 <div>In the IT industry since 2014. Columnist, internet marketer. Became interested in blockchain technology in 2017&nbsp;</div>
 <div>&nbsp;</div>
+<div style="text-align: center;"><b>Evgeny Shaltinskiy. DEV&nbsp;</b></div>
+<div>In the IT industry since 2011. Knowledge: Java, Groovy, Solidity, Javascript, HTML, SQL. Backend development and integration since 2014.&nbsp;</div>
+<div>&nbsp;</div>
 <div style="text-align: center;"><b>Taras Moskalyuk. DEV&nbsp;</b></div>
 <div>In the IT industry since 2012. Knowledge: C #, Ruby on rails, Bitrix Framework, JavaScript, .Net, HTML, SQL.&nbsp;</div>
 <div>&nbsp;</div>

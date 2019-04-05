@@ -26,6 +26,34 @@ Role: PM
 Name: Stanislav Kaurov
 Role: DATA
 
+## Developer
+<h1 align="left">
+  <img width="20%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/PhotoTeam/Evgenу_Shaltinskiy.jpg">
+</h1>
+Name: Evgenу Shaltinskiy
+Role: DEV
+
+## Developer
+<h1 align="left">
+  <img width="20%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/PhotoTeam/Taras_Moskaluc.jpg">
+</h1>
+Name: Taras Moskalyuk
+Role: DEV
+
+## Developer
+<h1 align="left">
+  <img width="20%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/PhotoTeam/Tatyana_Tsimbaluc.jpg">
+</h1>
+Name: Tatyana Cimbalyak
+Role: DEV
+
+## Developer
+<h1 align="left">
+  <img width="20%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/PhotoTeam/Armine_Avakemyan.jpg">
+</h1>
+Name: Armine Avakimyan
+Role: DEV
+
 ## Marketing
 <h1 align="left">
   <img width="20%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/PhotoTeam/Te_Su_Kvan.jpg">
@@ -53,32 +81,3 @@ Role: SMM
 </h1>
 Name: Vitaliy Nozdrachev
 Role: WWW
-
-## Developer
-
-<h1 align="left">
-  <img width="20%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/PhotoTeam/Evgenу_Shaltinskiy.jpg">
-</h1>
-Name: Evgenу Shaltinskiy
-Role: DEV
-
-## Developer
-<h1 align="left">
-  <img width="20%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/PhotoTeam/Taras_Moskaluc.jpg">
-</h1>
-Name: Taras Moskalyuk
-Role: DEV
-
-## Developer
-<h1 align="left">
-  <img width="20%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/PhotoTeam/Tatyana_Tsimbaluc.jpg">
-</h1>
-Name: Tatyana Cimbalyak
-Role: DEV
-
-## Developer
-<h1 align="left">
-  <img width="20%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/PhotoTeam/Armine_Avakemyan.jpg">
-</h1>
-Name: Armine Avakimyan
-Role: DEV

@@ -53,8 +53,8 @@
   <img width="100%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/Images/Distribution.png">
 </h1>
 <p align="center">ICO ETH 10% 500 000 000</p>
-<p align="center">Partnership 5% 250 000 000</p>
 <p align="center">ICO TRX 15% 750 000 000</p>
+<p align="center">Partnership 5% 250 000 000</p>
 <p align="center">Let&rsquo;s Trip ecosystem 25% 1 250 000 000</p>
 <p align="center">Let&rsquo;s Trip fund 25% 1 250 000 000</p>
 <p align="center">Team 10% 500 000 000</p>

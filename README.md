@@ -5,11 +5,11 @@
 </h1>
 
 <p align="center">
+  <a href="https://tronscan.org/#/token/1002260">TRC10</a> •
   <a href="#Introduction">Introduction</a> •
   <a href="#Goals">Goals</a> •
   <a href="#Distribution-of-coins">Distribution</a> •
   <a href="#Team">Team</a> •
-  <a href="https://tronscan.org/#/token/1002260">TRC10</a> •
   <a href="https://letstrip.io">LetsTrip.io</a>
 </p>
 

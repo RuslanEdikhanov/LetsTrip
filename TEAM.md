@@ -81,3 +81,10 @@ Role: SMM
 </h1>
 Name: Vitaliy Nozdrachev
 Role: WWW
+
+## Marketing
+<h1 align="left">
+  <img width="20%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/PhotoTeam/Elena_Parfenova.jpg">
+</h1>
+Name: Elena Parfenova
+Role: Designer

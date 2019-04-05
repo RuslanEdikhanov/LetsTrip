@@ -9,7 +9,7 @@
   <a href="#Goals">Goals</a> •
   <a href="#Distribution-of-coins">Distribution</a> •
   <a href="#Team">Team</a> •
-  <p><a href="https://tronscan.org/#/token/1002260">TRC10</a></p> •
+  <a href="https://tronscan.org/#/token/1002260">TRC10</a></p> •
   <a href="https://letstrip.io">LetsTrip.io</a>
 </p>
 

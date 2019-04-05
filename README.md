@@ -77,17 +77,6 @@
 <div style="text-align: center;"><b>Stanislav Kaurov. DATA&nbsp;</b></div>
 <div>In the IT since 2009. Specializes in big data, knowledge: .Net, HTML, SQL.&nbsp;</div>
 <div>&nbsp;</div>
-<div style="text-align: center;"><b>Kvan Te Su. CONTENT&nbsp;</b></div>
-<div>In the IT since 2014. Author of the information part of the project. Profile &ndash; content integration into the Let&rsquo;s Trip database.&nbsp;</div>
-<div>&nbsp;</div>
-<div style="text-align: center;"><b>Madina Mukazhan. WRIGHT&nbsp;</b></div>
-<div>In the IT industry since 2016. Content selection, SMM.&nbsp;</div>
-<div>&nbsp;</div>
-<div style="text-align: center;"><b>Dmitriy Trusov. SMM&nbsp;</b></div>
-<div>In the IT industry since 2015. Author of the Telegram channels about news and events (more than 310 000 real followers).&nbsp;</div>
-<div>&nbsp;</div>
-<div style="text-align: center;"><b>Vitaliy Nozdrachev. WWW&nbsp;</b></div>
-<div>In the IT industry since 2014. Columnist, internet marketer. Became interested in blockchain technology in 2017&nbsp;</div>
 <div>&nbsp;</div>
 <div style="text-align: center;"><b>Evgeny Shaltinskiy. DEV&nbsp;</b></div>
 <div>In the IT industry since 2011. Knowledge: Java, Groovy, Solidity, Javascript, HTML, SQL. Backend development and integration since 2014.&nbsp;</div>
@@ -100,3 +89,15 @@
 <div>&nbsp;</div>
 <div style="text-align: center;"><b>Armine Avakimyan. DEV&nbsp;</b></div>
 <div>In the IT industry since 2015. Knowledge: C #, JavaScript, .Net, HTML, SQL.</div>
+<div>&nbsp;</div>
+<div style="text-align: center;"><b>Kvan Te Su. CONTENT&nbsp;</b></div>
+<div>In the IT since 2014. Author of the information part of the project. Profile &ndash; content integration into the Let&rsquo;s Trip database.&nbsp;</div>
+<div>&nbsp;</div>
+<div style="text-align: center;"><b>Madina Mukazhan. WRIGHT&nbsp;</b></div>
+<div>In the IT industry since 2016. Content selection, SMM.&nbsp;</div>
+<div>&nbsp;</div>
+<div style="text-align: center;"><b>Dmitriy Trusov. SMM&nbsp;</b></div>
+<div>In the IT industry since 2015. Author of the Telegram channels about news and events (more than 310 000 real followers).&nbsp;</div>
+<div>&nbsp;</div>
+<div style="text-align: center;"><b>Vitaliy Nozdrachev. WWW&nbsp;</b></div>
+<div>In the IT industry since 2014. Columnist, internet marketer. Became interested in blockchain technology in 2017&nbsp;</div>

@@ -10,6 +10,7 @@
   <a href="#Goals">Goals</a> •
   <a href="#Distribution-of-coins">Distribution</a> •
   <a href="#Team">Team</a> •
+  <a href="https://itunes.apple.com/ru/app/id1445282629">MVP</a> •
   <a href="https://letstrip.io">LetsTrip.io</a>
 </p>
 

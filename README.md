@@ -11,6 +11,7 @@
   <a href="#Distribution-of-coins">Distribution</a> •
   <a href="#Team">Team</a> •
   <a href="https://letstrip.io">LetsTrip.io</a> •
+  <a href="https://letstrip.io/WP_LST.pdf">WP</a> •	
   <a href="https://itunes.apple.com/ru/app/id1445282629">MVP</a>
 </p>
 

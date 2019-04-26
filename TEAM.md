@@ -12,6 +12,13 @@ Role: CEO
 Name: Ruslan Edikhanov
 Role: COO
 
+## Chief technical officer
+<h1 align="left">
+  <img width="20%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/PhotoTeam/Evgenу_Shaltinskiy.jpg">
+</h1>
+Name: Evgenу Shaltinskiy
+Role: CTO & DEV
+
 ## Developer
 <h1 align="left">
   <img width="20%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/PhotoTeam/Sergey_Andriyanov.jpg">
@@ -25,13 +32,6 @@ Role: PM
 </h1>
 Name: Stanislav Kaurov
 Role: DATA
-
-## Developer
-<h1 align="left">
-  <img width="20%" src="https://github.com/RuslanEdikhanov/LetsTrip/blob/master/PhotoTeam/Evgenу_Shaltinskiy.jpg">
-</h1>
-Name: Evgenу Shaltinskiy
-Role: DEV
 
 ## Developer
 <h1 align="left">

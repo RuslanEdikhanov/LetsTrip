@@ -69,6 +69,7 @@
 <div>&nbsp;</div>
 <div style="text-align: center;"><b>Ruslan Edikhanov. COO&nbsp;</b></div>
 <div>Programmer, bachelor, in the IT-industry since 2005. Blockchain technologies development and integration since 2015.&nbsp;</div>
+<div>&nbsp;</div>
 <div style="text-align: center;"><b>Evgeny Shaltinskiy. CTO & DEV&nbsp;</b></div>
 <div>In the IT industry since 2011. Knowledge: Java, Groovy, Solidity, Javascript, HTML, SQL. Backend development and integration since 2014.&nbsp;</div>
 <div>&nbsp;</div>

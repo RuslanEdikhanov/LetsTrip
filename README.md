@@ -69,6 +69,8 @@
 <div>&nbsp;</div>
 <div style="text-align: center;"><b>Ruslan Edikhanov. COO&nbsp;</b></div>
 <div>Programmer, bachelor, in the IT-industry since 2005. Blockchain technologies development and integration since 2015.&nbsp;</div>
+<div style="text-align: center;"><b>Evgeny Shaltinskiy. CTO & DEV&nbsp;</b></div>
+<div>In the IT industry since 2011. Knowledge: Java, Groovy, Solidity, Javascript, HTML, SQL. Backend development and integration since 2014.&nbsp;</div>
 <div>&nbsp;</div>
 <div style="text-align: center;"><b>Georgiy Shaginian. IOS DEV&nbsp;</b></div>
 <div>IOS-developer since 2009. The main focus on working with maps, co-author and developer of the &ldquo;Gde Schaverma?&rdquo; application (More than 150,000 downloads), developer of the blockchain-exchange mob app GENESIS.VISION.&nbsp;</div>
@@ -78,9 +80,6 @@
 <div>&nbsp;</div>
 <div style="text-align: center;"><b>Stanislav Kaurov. DATA&nbsp;</b></div>
 <div>In the IT since 2009. Specializes in big data, knowledge: .Net, HTML, SQL.&nbsp;</div>
-<div>&nbsp;</div>
-<div style="text-align: center;"><b>Evgeny Shaltinskiy. DEV&nbsp;</b></div>
-<div>In the IT industry since 2011. Knowledge: Java, Groovy, Solidity, Javascript, HTML, SQL. Backend development and integration since 2014.&nbsp;</div>
 <div>&nbsp;</div>
 <div style="text-align: center;"><b>Taras Moskalyuk. DEV&nbsp;</b></div>
 <div>In the IT industry since 2012. Knowledge: C #, Ruby on rails, Bitrix Framework, JavaScript, .Net, HTML, SQL.&nbsp;</div>
